@@ -1,0 +1,14 @@
+#guest-post-form {
+    margin: 20px;
+}
+
+#guest-post-form input, #guest-post-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#form-message {
+    margin-top: 10px;
+    font-weight: bold;
+}
